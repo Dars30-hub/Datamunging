@@ -1,0 +1,8 @@
+C:\Users\c5265003\Documents\Github\Weather_Data_Project\Soccer_Data_Project\bin\Debug\Soccer_Data_Project.exe.config
+C:\Users\c5265003\Documents\Github\Weather_Data_Project\Soccer_Data_Project\bin\Debug\Soccer_Data_Project.exe
+C:\Users\c5265003\Documents\Github\Weather_Data_Project\Soccer_Data_Project\bin\Debug\Soccer_Data_Project.pdb
+C:\Users\c5265003\Documents\Github\Weather_Data_Project\Soccer_Data_Project\obj\Debug\Soccer_Data_Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\c5265003\Documents\Github\Weather_Data_Project\Soccer_Data_Project\obj\Debug\Soccer_Data_Project.csproj.CoreCompileInputs.cache
+C:\Users\c5265003\Documents\Github\Weather_Data_Project\Soccer_Data_Project\obj\Debug\Soccer_Data_Project.exe
+C:\Users\c5265003\Documents\Github\Weather_Data_Project\Soccer_Data_Project\obj\Debug\Soccer_Data_Project.pdb
+C:\Users\c5265003\Documents\Github\Weather_Data_Project\Soccer_Data_Project\obj\Debug\Soccer_Data_Project.csproj.AssemblyReference.cache
